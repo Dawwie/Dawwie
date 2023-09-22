@@ -19,7 +19,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 #### Version control
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/static/v1?message=gitlab&logo=gitlab&labelColor=5c5c5c&color=5c5c5c&logoColor=%27&label=%20&style=for-the-badge)
-### Mobile
+#### Mobile
 ![Apple Store Connect](https://img.shields.io/static/v1?message=apple%20store%20connect&logo=apple&labelColor=black&color=black&logoColor=white&label=%20&style=for-the-badge) ![Google Play Console](https://img.shields.io/static/v1?message=google%20play%20console&logo=google%20play&labelColor=0075e5&color=0075e5&logoColor=%27&label=%20&style=for-the-badge) ![Bitrise](https://img.shields.io/static/v1?message=Bitrise&logo=Bitrise&labelColor=683D87&color=683D87&logoColor=%27&label=%20&style=for-the-badge)
 
 #### Other
