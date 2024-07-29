@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on** expanding my knowledge of mobile apps and refreshing my knowledge of algorithms and data structures<br>👯 **I’m looking to collaborate on** projects where technology is just a tool that helps create useful software<br>🤝 **I’m looking for help with** finding an environment in which we could develop each other.<br>🌱 **I’m currently expanding** my knowledge of React.js<br>💬 **Ask me about** anything<br>⚡ **Fun fact** I was the champion of the first tennis competition in high school (for 3 people taking part, that's quite good ;)
+🔭 **I’m currently working on** expanding my knowledge of mobile apps and refreshing my knowledge of algorithms and data structures<br>👯 **I’m looking to collaborate on** projects where technology is just a tool that helps create useful software<br>🤝 **I’m looking for help with** finding an environment in which we could develop each other.<br>💬 **Ask me about** anything<br>⚡ **Fun fact** I was the champion of the first tennis competition in high school (for 3 people taking part, that's quite good ;)
 
 
 ## 🌐 Socials:
