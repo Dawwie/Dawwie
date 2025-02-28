@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on** expanding my knowledge of mobile apps and refreshing my knowledge of algorithms and data structures<br>👯 **I’m looking to collaborate on** projects where technology is just a tool that helps create useful software<br>🤝 **I’m looking for help with** finding an environment in which we could develop each other.<br>💬 **Ask me about** anything<br>⚡ **Fun fact** I was the champion of the first tennis competition in high school (for 3 people taking part, that's quite good ;)
+🔭 **I’m currently working on** application development in _Expo_ and _Next.js_<br>👯 **I’m looking to collaborate on** projects where technology is just a tool that helps create useful software<br>🤝 **I’m looking for help with** finding an environment in which we could develop each other.<br>💬 **Ask me about** anything<br>⚡ **Fun fact** I was the champion of the first tennis competition in high school (for 3 people taking part, that's quite good 😜
 
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawwie&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-#### [Repository](https://github.com/dawidwietrzych) statistics from current job<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dawidwietrzych&theme=calm&hide_border=false)<br/>
+#### [Repository](https://github.com/dawidwietrzych) stats<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dawwie&theme=calm&hide_border=false)<br/>
 
 
